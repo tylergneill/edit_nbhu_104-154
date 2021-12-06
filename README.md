@@ -1,8 +1,12 @@
 # edit_nbhu_104-154
 
-This is a simple data repo containing plain-text transcript files of four witnesses (P1, P2, V, E) and a Classical Text Editor (CTE) file for editing the Sanskrit text of NBhū 104–154. There is also a fifth transcript file (Cr) reflecting the simplified content of the CTE file. Finally, the CEX file combines all of the plain-text data for use with Brucheion.
+This is a simple data repo for my Sanskrit editing work on NBhū 104–154. It contains the following files:
 
-Editing Conventions:
+* plain-text transcript files of four fundamental witnesses (P1, P2, V, E) plus a similar plain-text version of the critically edited text (CrE)
+* a CEX file produced from the above five plain-text files (using [this tool](https://github.com/tylergneill/cte2cex)) and meant for use with Brucheion
+* a Classical Text Editor (CTE) file produced from the four fundamental transcript text files (P1, P2, V, E) using CTE's semi-automatic collation function and extensive manual adjustment
+
+Editing conventions for transcript files:
 * [delete]
 * 〈add〉
 * (unclear)
